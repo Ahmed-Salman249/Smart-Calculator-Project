@@ -1,4 +1,4 @@
-# Smart Calculator Project
+# Calculator Project
 # This program performs basic arithmetic operations with input validation
 while True:
   # input first number
@@ -58,4 +58,5 @@ while True:
     elif repeat == "yes":
       continue
   break
+
 print("program exited")
